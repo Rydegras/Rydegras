@@ -12,7 +12,10 @@ I am also an Artist. This area isn't directly related with IT, but my education 
 
 [![tech.jpg](https://i.postimg.cc/jqPy15s7/tech.jpg)](https://postimg.cc/0r56M9Kk)
 
-### These are my recent Projects
+### Connect with me!
+<a href="https://www.linkedin.com/in/francisco-minutti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/francisco-minutti/" height="30" width="40" /></a>
+
+## These are my recent Projects
 
 HelloWorld! 🌎
 
