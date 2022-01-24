@@ -6,7 +6,7 @@ I love to play music, videogames, and code 🤘🏻 .
 
 ### Soft Skills
 
-I am also an Artist. This area isn't directly related with IT, but my education and experience in the arts gave me key values and notions for good relationships, comunication planning and organising. The curiosity and the "self-taught" method guided mi learning path
+I am also an Artist. This area isn't directly related with IT, but my education and experience in the arts gave me key values and notions for good relationships, comunication, planning and organising. The curiosity and the "self-taught" method guided mi learning path
 
 ### Tech Skills
 
