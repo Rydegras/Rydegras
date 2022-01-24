@@ -2,7 +2,7 @@
 [![my-name-is.jpg](https://i.postimg.cc/sfbG3R2R/my-name-is.jpg)](https://postimg.cc/pyYLB480)
 
 I am a Web Developer, currently finishing the Henry's Full Stack career. 
-I love to play music, videogames, and code 🤘🏻 .
+I love to play music, videogames, and coding 🤘🏻 .
 
 ### Soft Skills
 
