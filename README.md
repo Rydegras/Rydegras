@@ -19,7 +19,8 @@ I am also an Artist. This area isn't directly related with IT, but my education 
 
 HelloWorld! 🌎
 
-"Hello World!" is the Individual Project from Henry intensive course. A countries and tourism application.
+"Hello World!" is the Individual Project from Henry's intensive course. 
+#### A countries and tourism application.
 
 - Learn about all the countries in the world.
 - Search them, filter them and sort them to find your favourites!
